@@ -1,0 +1,1 @@
+DjangoBlogSpot is a minimalist blog application built using the Django framework. This app provides a clean and intuitive platform for users to create, edit, and manage blog posts. Whether you are a seasoned blogger or just getting started, DjangoBlogSpot offers all the essential features needed to share your thoughts and stories 
